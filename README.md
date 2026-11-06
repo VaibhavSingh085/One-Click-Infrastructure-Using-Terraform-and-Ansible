@@ -23,12 +23,6 @@
 
 ---
 
-## Demo
-
-> *Add a screen recording or GIF of `make up` terminal output and the live `/listings` page here.*
-
----
-
 ## System Architecture
 
 ```mermaid
@@ -492,4 +486,4 @@ A 502 usually means Nginx is running but the upstream container on port 8080 is 
 |---|---|
 | **Author** | [Vaibhav Singh](https://github.com/VaibhavSingh085) |
 | **Application** | [StayScape](https://github.com/VaibhavSingh085/StayScape) |
-| **Infrastructure repo** | [One-Click-Infrastructure-with-Terraform-Ansible](https://github.com/VaibhavSingh085/One-Click-Infrastructure-with-Terraform-Ansible) |
+| **Infrastructure repo** | [One-Click-Infrastructure-with-Terraform-Ansible](https://github.com/VaibhavSingh085/One-Click-Infrastructure-Using-Terraform-and-Ansible) |
